@@ -1,0 +1,16 @@
+spring:
+   datasource:
+      username:   order_tracking
+      password:   order_tracking
+      url:   jdbc:mysql://localhost:3306/order_tracking
+      
+   jpa:
+      hibernate:
+         ddl-auto:   create
+      show-sql:   true
+      defer-datasource-initialization: true
+      
+   sql:
+      init:
+         mode: never      
+   

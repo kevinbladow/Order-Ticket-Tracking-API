@@ -1,0 +1,8 @@
+1724029316880	Rename method 'createCustomer'
+1724029427846	Rename method 'saveCustomer'
+1724362095110	Delete element
+1724365302239	Rename resource 'items.sql'
+1724366095409	Rename field 'itemUPC'
+1724366171865	Rename field 'itemUPC'
+1724379275239	Rename method 'addItemToTicket'
+1724379419513	Rename method 'findItemById'

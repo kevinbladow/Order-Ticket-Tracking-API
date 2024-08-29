@@ -1,0 +1,20 @@
+{
+	"customerName": "Kevin",
+	"customerAddress": "2564 Joshua Way",
+	"customerPhone": "(408) 710-7553",
+	"customerEmail": "kevin@bladow.us"
+}
+
+{
+	"customerName": "Buddy",
+	"customerAddress": "2929 Tweeker Place",
+	"customerPhone": "(209) 213-2299",
+	"customerEmail": "BuddyL@gmail.com"
+}
+
+{
+	"customerName": "Carrie",
+	"customerAddress": "14 Plaza Cir",
+	"customerPhone": "(800) 454-1976",
+	"customerEmail": "Cyoulater@gmail.com"
+}

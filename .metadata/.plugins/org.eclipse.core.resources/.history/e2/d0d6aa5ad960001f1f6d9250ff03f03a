@@ -1,0 +1,3 @@
+INSERT INTO item (item_name, item_price, item_upc) VALUES ('6 pk - Madina African Black Shea Butter Soap', '$1.48', '0659455894001');
+
+

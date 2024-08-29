@@ -1,0 +1,8 @@
+@Temporal(TemporalType.DATE)
+	private Date ticketDate;
+	
+	@Temporal(TemporalType.DATE)
+	private Date ticketDueDate;
+	
+	@Temporal(TemporalType.DATE)
+	private Date ticketShipmentDate;
